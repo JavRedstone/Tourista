@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "tourista-htn",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
