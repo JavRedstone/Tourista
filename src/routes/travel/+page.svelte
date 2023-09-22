@@ -87,7 +87,7 @@
                     totalTime = computeTotalTime();
                 })
                 .catch((e) => {
-                    calculateAndDisplayRoute(service, display, wp);
+                    // calculateAndDisplayRoute(service, display, wp);
                 });
         }
     }
